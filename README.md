@@ -18,6 +18,8 @@ A simple, user-friendly GUI application built using **Python** and **Kivy** to p
 
 <img width="795" alt="image" src="https://github.com/user-attachments/assets/02607e2f-255e-487d-ab08-d637235c2a47" />
 
+<img width="793" alt="image" src="https://github.com/user-attachments/assets/24701597-861d-4691-b3be-7ea3d528c501" />
+
 
 
 
@@ -29,7 +31,7 @@ A simple, user-friendly GUI application built using **Python** and **Kivy** to p
 
 ```bash
 git clone https://github.com/aniket-cs/GreenTunnel.git
-cd dns-subdomain-gui
+cd GreenTunnel
 ```
 
 ### 2. Install Dependencies
@@ -41,7 +43,7 @@ pip install kivy requests dnspython
 ### 3. Run the App
 
 ```bash
-python your_script_name.py
+python main.py
 ```
 
 ---
@@ -90,7 +92,6 @@ blog
 API
 music
 webdisk
-ns2
 cpanel
 imap
 test
@@ -102,12 +103,7 @@ www2
 admin
 news
 VPN
-ns3
-pcm
-pct
-cyan
 village
-aire
 bubbles
 career
 info
@@ -125,8 +121,13 @@ Feel free to submit pull requests or report issues to improve this tool.
 
 ## 📜 License
 
-Open Source
+This project is open-source. I welcome all engineers to contribute and make the application cool :)
 
 ---
 
-Made with ❤️ by 
+## 👤 Author
+Made with ❤️ by **Aniket Das**
+[GitHub](https://github.com/aniket-cs/)
+
+------
+⭐ **Star this repo** if you found it useful!
