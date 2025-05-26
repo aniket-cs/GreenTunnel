@@ -18,6 +18,7 @@ A simple, user-friendly GUI application built using **Python** and **Kivy** to p
 
 <img width="795" alt="image" src="https://github.com/user-attachments/assets/02607e2f-255e-487d-ab08-d637235c2a47" />
 
+#### The Scan Results
 <img width="793" alt="image" src="https://github.com/user-attachments/assets/24701597-861d-4691-b3be-7ea3d528c501" />
 
 
