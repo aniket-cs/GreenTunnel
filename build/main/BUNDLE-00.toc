@@ -1,0 +1,3 @@
+([('main',
+   '/Users/aniketdas/PycharmProjects/dns_subdomain_enum/dist/main',
+   'EXECUTABLE')],)
